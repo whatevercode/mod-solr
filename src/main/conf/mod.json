@@ -1,0 +1,5 @@
+{
+  "main": "de.grubler.vertx.ModSolr",
+  "worker": false,
+  "auto-redeploy":true
+}
